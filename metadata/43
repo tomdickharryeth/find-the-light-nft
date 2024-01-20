@@ -1,0 +1,20 @@
+{
+    "name": "The Light That Was Lost",
+    "description": "99 First Edition Digital Collectables for The Light That Was Lost. A story book by Pimms C. Hart. Each is eligible for 1 physical First Edition book sent anywhere in the world. Release date TBC (European Summer). Every story has a beginning. This is ours. Website link: findthelight.io",
+    "image": "ipfs://bafybeic2e6fjmazqbgm2orxhz44dxv652ud7grnthywkggiq7kaatkkv5q",
+    "animation_url": "ipfs://bafybeigh7icn6vgrtxepafdplauykgnucczofcnoviijwkcdh6bsbnvsle",
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "The Light That Was Lost"
+        },
+        {
+            "trait_type": "Edition",
+            "value": "First Edition"
+        },
+        {
+            "trait_type": "Book",
+            "value": 43
+        }
+    ]
+}
